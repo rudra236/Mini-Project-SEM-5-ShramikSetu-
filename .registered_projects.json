@@ -1,0 +1,351 @@
+{
+  "projects": [
+    {
+      "id": "57e5051e-4f43-48a0-ad9c-d334da059542",
+      "contractor_id": "test-contractor-5652f174-f992-4b42-be9d-242e0f0b42d5",
+      "name": "Bandra Metro Station Phase 2",
+      "description": "Underground rail structural concrete",
+      "start_date": "2026-10-01",
+      "end_date": null,
+      "status": "ACTIVE",
+      "created_at": "2026-10-08T20:20:37.408Z",
+      "updated_at": "2026-10-08T20:20:37.408Z"
+    },
+    {
+      "id": "0a9bd125-223b-4328-ae50-a1dac75cbf4e",
+      "contractor_id": "test-contractor-5652f174-f992-4b42-be9d-242e0f0b42d5",
+      "name": "Bandra Metro Station Phase 2",
+      "description": "Underground rail structural concrete",
+      "start_date": "2026-10-01",
+      "end_date": null,
+      "status": "ACTIVE",
+      "created_at": "2026-10-08T20:20:37.444Z",
+      "updated_at": "2026-10-08T20:20:37.444Z"
+    },
+    {
+      "id": "86a05cdb-dcf5-4a6b-a827-e11f890072d4",
+      "contractor_id": "test-contractor-5652f174-f992-4b42-be9d-242e0f0b42d5",
+      "name": "Bandra Metro Station Phase 2",
+      "description": "Underground rail structural concrete",
+      "start_date": "2026-10-01",
+      "end_date": null,
+      "status": "ACTIVE",
+      "created_at": "2026-10-08T20:20:37.458Z",
+      "updated_at": "2026-10-08T20:20:37.458Z"
+    },
+    {
+      "id": "bef22b92-8c97-4a7c-ae63-8d4117642073",
+      "contractor_id": "test-contractor-5652f174-f992-4b42-be9d-242e0f0b42d5",
+      "name": "Bandra Metro Station Phase 2",
+      "description": "Underground rail structural concrete",
+      "start_date": "2026-10-01",
+      "end_date": null,
+      "status": "ACTIVE",
+      "created_at": "2026-10-08T20:20:37.480Z",
+      "updated_at": "2026-10-08T20:20:37.480Z"
+    }
+  ],
+  "worksites": [
+    {
+      "id": "e64fa72e-116b-4001-bda8-fc45baab3af4",
+      "project_id": "57e5051e-4f43-48a0-ad9c-d334da059542",
+      "name": "Main Shaft site",
+      "latitude": 19.0596,
+      "longitude": 72.8295,
+      "allowed_radius_meters": 500,
+      "address": "SV Road, Bandra West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": null,
+      "is_active": true,
+      "created_at": "2026-10-08T20:20:37.413Z",
+      "updated_at": "2026-10-08T20:20:37.413Z"
+    },
+    {
+      "id": "d3fa19b9-2c6e-4122-992e-1c52b616134f",
+      "project_id": "0a9bd125-223b-4328-ae50-a1dac75cbf4e",
+      "name": "Main Shaft site",
+      "latitude": 19.0596,
+      "longitude": 72.8295,
+      "allowed_radius_meters": 500,
+      "address": "SV Road, Bandra West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": null,
+      "is_active": true,
+      "created_at": "2026-10-08T20:20:37.445Z",
+      "updated_at": "2026-10-08T20:20:37.445Z"
+    },
+    {
+      "id": "fac0b653-e73b-4fa8-b091-2731ca657696",
+      "project_id": "86a05cdb-dcf5-4a6b-a827-e11f890072d4",
+      "name": "Main Shaft site",
+      "latitude": 19.0596,
+      "longitude": 72.8295,
+      "allowed_radius_meters": 500,
+      "address": "SV Road, Bandra West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": null,
+      "is_active": true,
+      "created_at": "2026-10-08T20:20:37.459Z",
+      "updated_at": "2026-10-08T20:20:37.459Z"
+    },
+    {
+      "id": "81a1d323-f9e4-49e8-83fa-fce392661dbf",
+      "project_id": "bef22b92-8c97-4a7c-ae63-8d4117642073",
+      "name": "Main Shaft site",
+      "latitude": 19.0596,
+      "longitude": 72.8295,
+      "allowed_radius_meters": 500,
+      "address": "SV Road, Bandra West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": null,
+      "is_active": true,
+      "created_at": "2026-10-08T20:20:37.481Z",
+      "updated_at": "2026-10-08T20:20:37.481Z"
+    }
+  ],
+  "contracts": [
+    {
+      "id": "0c1a85c2-340b-425a-b29b-5c695fb788a8",
+      "project_id": "57e5051e-4f43-48a0-ad9c-d334da059542",
+      "worksite_id": "e64fa72e-116b-4001-bda8-fc45baab3af4",
+      "contractor_id": "test-contractor-5652f174-f992-4b42-be9d-242e0f0b42d5",
+      "worker_id": "test-worker-prof-962fcb7d-02bb-4586-8f70-554382798478",
+      "worker_user_id": "test-worker-usr-19dee046-48e7-47ea-840a-4c19e9a7f2a4",
+      "work_type": "Masonry & Concreting",
+      "daily_wage": 75000,
+      "expected_working_hours": 8,
+      "payment_frequency": "DAILY",
+      "start_date": "2026-10-01",
+      "end_date": null,
+      "status": "ACTIVE",
+      "min_wage_override_acknowledged": false,
+      "min_wage_applicable_paise": 60638,
+      "workers": {
+        "id": "test-worker-prof-962fcb7d-02bb-4586-8f70-554382798478",
+        "user_id": "test-worker-usr-19dee046-48e7-47ea-840a-4c19e9a7f2a4",
+        "full_name": "Ramesh Kumar",
+        "skill_category": "SKILLED"
+      },
+      "contractors": {
+        "id": "test-contractor-5652f174-f992-4b42-be9d-242e0f0b42d5",
+        "company_name": "Registered Contractor"
+      },
+      "projects": {
+        "id": "57e5051e-4f43-48a0-ad9c-d334da059542",
+        "name": "Bandra Metro Station Phase 2",
+        "description": "Underground rail structural concrete"
+      },
+      "audit_trail": [
+        {
+          "action": "ASSIGNMENT_CREATED",
+          "actorId": "test-contractor-5652f174-f992-4b42-be9d-242e0f0b42d5",
+          "timestamp": "2026-10-08T20:20:37.430Z",
+          "workType": "Masonry & Concreting",
+          "dailyWagePaise": 75000,
+          "startDate": "2026-10-01",
+          "overrideAcknowledged": false
+        }
+      ],
+      "created_at": "2026-10-08T20:20:37.430Z",
+      "updated_at": "2026-10-08T20:20:37.430Z"
+    },
+    {
+      "id": "4ab90e2c-88d4-48be-b608-49b5f1da24b0",
+      "project_id": "0a9bd125-223b-4328-ae50-a1dac75cbf4e",
+      "worksite_id": "d3fa19b9-2c6e-4122-992e-1c52b616134f",
+      "contractor_id": "test-contractor-5652f174-f992-4b42-be9d-242e0f0b42d5",
+      "worker_id": "test-worker-prof-962fcb7d-02bb-4586-8f70-554382798478",
+      "worker_user_id": "test-worker-usr-19dee046-48e7-47ea-840a-4c19e9a7f2a4",
+      "work_type": "Masonry",
+      "daily_wage": 75000,
+      "expected_working_hours": 8,
+      "payment_frequency": "DAILY",
+      "start_date": "2026-10-01",
+      "end_date": null,
+      "status": "ACTIVE",
+      "min_wage_override_acknowledged": false,
+      "workers": {
+        "id": "test-worker-prof-962fcb7d-02bb-4586-8f70-554382798478",
+        "user_id": "test-worker-usr-19dee046-48e7-47ea-840a-4c19e9a7f2a4"
+      },
+      "contractors": {
+        "id": "test-contractor-5652f174-f992-4b42-be9d-242e0f0b42d5",
+        "company_name": "Registered Contractor"
+      },
+      "projects": {
+        "id": "0a9bd125-223b-4328-ae50-a1dac75cbf4e",
+        "name": "Bandra Metro Station Phase 2",
+        "description": "Underground rail structural concrete"
+      },
+      "audit_trail": [
+        {
+          "action": "ASSIGNMENT_CREATED",
+          "actorId": "test-contractor-5652f174-f992-4b42-be9d-242e0f0b42d5",
+          "timestamp": "2026-10-08T20:20:37.453Z",
+          "workType": "Masonry",
+          "dailyWagePaise": 75000,
+          "startDate": "2026-10-01",
+          "overrideAcknowledged": false
+        }
+      ],
+      "created_at": "2026-10-08T20:20:37.453Z",
+      "updated_at": "2026-10-08T20:20:37.453Z"
+    },
+    {
+      "id": "c69532ae-32b1-4abb-9095-d009ae7caa28",
+      "project_id": "86a05cdb-dcf5-4a6b-a827-e11f890072d4",
+      "worksite_id": "fac0b653-e73b-4fa8-b091-2731ca657696",
+      "contractor_id": "test-contractor-5652f174-f992-4b42-be9d-242e0f0b42d5",
+      "worker_id": "test-worker-prof-962fcb7d-02bb-4586-8f70-554382798478",
+      "worker_user_id": "test-worker-usr-19dee046-48e7-47ea-840a-4c19e9a7f2a4",
+      "work_type": "Reinforcement Steel Fixing",
+      "daily_wage": 85000,
+      "expected_working_hours": 8,
+      "payment_frequency": "DAILY",
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-07",
+      "status": "COMPLETED",
+      "min_wage_override_acknowledged": false,
+      "workers": {
+        "id": "test-worker-prof-962fcb7d-02bb-4586-8f70-554382798478",
+        "user_id": "test-worker-usr-19dee046-48e7-47ea-840a-4c19e9a7f2a4"
+      },
+      "contractors": {
+        "id": "test-contractor-5652f174-f992-4b42-be9d-242e0f0b42d5",
+        "company_name": "Registered Contractor"
+      },
+      "projects": {
+        "id": "86a05cdb-dcf5-4a6b-a827-e11f890072d4",
+        "name": "Bandra Metro Station Phase 2",
+        "description": "Underground rail structural concrete"
+      },
+      "audit_trail": [
+        {
+          "action": "ASSIGNMENT_CREATED",
+          "actorId": "test-contractor-5652f174-f992-4b42-be9d-242e0f0b42d5",
+          "timestamp": "2026-10-08T20:20:37.461Z",
+          "workType": "Reinforcement Steel Fixing",
+          "dailyWagePaise": 85000,
+          "startDate": "2026-10-01",
+          "overrideAcknowledged": false
+        },
+        {
+          "action": "ASSIGNMENT_ENDED",
+          "actorId": "test-contractor-5652f174-f992-4b42-be9d-242e0f0b42d5",
+          "timestamp": "2026-10-08T20:20:37.470Z",
+          "reason": "Project phase completed successfully",
+          "unresolvedDuesPaise": 0,
+          "duesConfirmed": true
+        }
+      ],
+      "created_at": "2026-10-08T20:20:37.461Z",
+      "updated_at": "2026-10-08T20:20:37.470Z",
+      "end_reason": "Project phase completed successfully",
+      "ended_by": "test-contractor-5652f174-f992-4b42-be9d-242e0f0b42d5",
+      "unresolved_dues_paise": 0,
+      "dues_confirmed": true
+    },
+    {
+      "id": "06c7e068-4e83-4ff6-987e-3788555a8d21",
+      "project_id": "86a05cdb-dcf5-4a6b-a827-e11f890072d4",
+      "worksite_id": "fac0b653-e73b-4fa8-b091-2731ca657696",
+      "contractor_id": "test-contractor-5652f174-f992-4b42-be9d-242e0f0b42d5",
+      "worker_id": "test-worker-prof-962fcb7d-02bb-4586-8f70-554382798478",
+      "worker_user_id": "test-worker-usr-19dee046-48e7-47ea-840a-4c19e9a7f2a4",
+      "work_type": "Finishing Works",
+      "daily_wage": 90000,
+      "expected_working_hours": 8,
+      "payment_frequency": "DAILY",
+      "start_date": "2026-10-08",
+      "end_date": null,
+      "status": "ACTIVE",
+      "min_wage_override_acknowledged": false,
+      "workers": {
+        "id": "test-worker-prof-962fcb7d-02bb-4586-8f70-554382798478",
+        "user_id": "test-worker-usr-19dee046-48e7-47ea-840a-4c19e9a7f2a4"
+      },
+      "contractors": {
+        "id": "test-contractor-5652f174-f992-4b42-be9d-242e0f0b42d5",
+        "company_name": "Registered Contractor"
+      },
+      "projects": {
+        "id": "86a05cdb-dcf5-4a6b-a827-e11f890072d4",
+        "name": "Bandra Metro Station Phase 2",
+        "description": "Underground rail structural concrete"
+      },
+      "audit_trail": [
+        {
+          "action": "ASSIGNMENT_CREATED",
+          "actorId": "test-contractor-5652f174-f992-4b42-be9d-242e0f0b42d5",
+          "timestamp": "2026-10-08T20:20:37.474Z",
+          "workType": "Finishing Works",
+          "dailyWagePaise": 90000,
+          "startDate": "2026-10-08",
+          "overrideAcknowledged": false
+        }
+      ],
+      "created_at": "2026-10-08T20:20:37.474Z",
+      "updated_at": "2026-10-08T20:20:37.474Z"
+    },
+    {
+      "id": "26bc0e3d-b753-471a-b782-e0ac7e975208",
+      "project_id": "bef22b92-8c97-4a7c-ae63-8d4117642073",
+      "worksite_id": "81a1d323-f9e4-49e8-83fa-fce392661dbf",
+      "contractor_id": "test-contractor-5652f174-f992-4b42-be9d-242e0f0b42d5",
+      "worker_id": "test-worker-prof-962fcb7d-02bb-4586-8f70-554382798478",
+      "worker_user_id": "test-worker-usr-19dee046-48e7-47ea-840a-4c19e9a7f2a4",
+      "work_type": "Carpentry",
+      "daily_wage": 70000,
+      "expected_working_hours": 8,
+      "payment_frequency": "DAILY",
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-07",
+      "status": "COMPLETED",
+      "min_wage_override_acknowledged": false,
+      "workers": {
+        "id": "test-worker-prof-962fcb7d-02bb-4586-8f70-554382798478",
+        "user_id": "test-worker-usr-19dee046-48e7-47ea-840a-4c19e9a7f2a4"
+      },
+      "contractors": {
+        "id": "test-contractor-5652f174-f992-4b42-be9d-242e0f0b42d5",
+        "company_name": "Registered Contractor"
+      },
+      "projects": {
+        "id": "bef22b92-8c97-4a7c-ae63-8d4117642073",
+        "name": "Bandra Metro Station Phase 2",
+        "description": "Underground rail structural concrete"
+      },
+      "audit_trail": [
+        {
+          "action": "ASSIGNMENT_CREATED",
+          "actorId": "test-contractor-5652f174-f992-4b42-be9d-242e0f0b42d5",
+          "timestamp": "2026-10-08T20:20:37.484Z",
+          "workType": "Carpentry",
+          "dailyWagePaise": 70000,
+          "startDate": "2026-10-01",
+          "overrideAcknowledged": false
+        },
+        {
+          "action": "ASSIGNMENT_ENDED",
+          "actorId": "test-contractor-5652f174-f992-4b42-be9d-242e0f0b42d5",
+          "timestamp": "2026-10-08T20:20:37.489Z",
+          "reason": "Contractor requested release",
+          "unresolvedDuesPaise": 0,
+          "duesConfirmed": true
+        }
+      ],
+      "created_at": "2026-10-08T20:20:37.484Z",
+      "updated_at": "2026-10-08T20:20:37.489Z",
+      "end_reason": "Contractor requested release",
+      "ended_by": "test-contractor-5652f174-f992-4b42-be9d-242e0f0b42d5",
+      "unresolved_dues_paise": 0,
+      "dues_confirmed": true
+    }
+  ],
+  "attendance": [],
+  "activeTokens": {}
+}

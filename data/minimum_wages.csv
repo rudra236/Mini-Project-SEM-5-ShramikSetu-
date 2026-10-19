@@ -1,0 +1,25 @@
+state,skill_category,zone,daily_rate_paise,effective_from,source_name,source_url,verified
+Maharashtra,UNSKILLED,Zone I,54442,2026-07-01,Office of the Labour Commissioner Maharashtra,https://mahakamgar.maharashtra.gov.in/,true
+Maharashtra,SEMI_SKILLED,Zone I,57654,2026-07-01,Office of the Labour Commissioner Maharashtra,https://mahakamgar.maharashtra.gov.in/,true
+Maharashtra,SKILLED,Zone I,60638,2026-07-01,Office of the Labour Commissioner Maharashtra,https://mahakamgar.maharashtra.gov.in/,true
+Maharashtra,HIGHLY_SKILLED,Zone I,65000,2026-07-01,Office of the Labour Commissioner Maharashtra (Estimated Tier),https://mahakamgar.maharashtra.gov.in/,false
+Maharashtra,UNSKILLED,Zone II,52150,2026-07-01,Office of the Labour Commissioner Maharashtra,https://mahakamgar.maharashtra.gov.in/,true
+Maharashtra,SEMI_SKILLED,Zone II,55362,2026-07-01,Office of the Labour Commissioner Maharashtra,https://mahakamgar.maharashtra.gov.in/,true
+Maharashtra,SKILLED,Zone II,58346,2026-07-01,Office of the Labour Commissioner Maharashtra,https://mahakamgar.maharashtra.gov.in/,true
+Maharashtra,HIGHLY_SKILLED,Zone II,62000,2026-07-01,Office of the Labour Commissioner Maharashtra (Estimated Tier),https://mahakamgar.maharashtra.gov.in/,false
+Maharashtra,UNSKILLED,Zone III,49854,2026-07-01,Office of the Labour Commissioner Maharashtra,https://mahakamgar.maharashtra.gov.in/,true
+Maharashtra,SEMI_SKILLED,Zone III,53069,2026-07-01,Office of the Labour Commissioner Maharashtra,https://mahakamgar.maharashtra.gov.in/,true
+Maharashtra,SKILLED,Zone III,56054,2026-07-01,Office of the Labour Commissioner Maharashtra,https://mahakamgar.maharashtra.gov.in/,true
+Maharashtra,HIGHLY_SKILLED,Zone III,60000,2026-07-01,Office of the Labour Commissioner Maharashtra (Estimated Tier),https://mahakamgar.maharashtra.gov.in/,false
+Central Sphere,UNSKILLED,Area A,84000,2026-10-01,Chief Labour Commissioner (Central) Ministry of Labour & Employment,https://clc.gov.in/,true
+Central Sphere,SEMI_SKILLED,Area A,93300,2026-10-01,Chief Labour Commissioner (Central) Ministry of Labour & Employment,https://clc.gov.in/,true
+Central Sphere,SKILLED,Area A,111100,2026-10-01,Chief Labour Commissioner (Central) Ministry of Labour & Employment,https://clc.gov.in/,true
+Central Sphere,HIGHLY_SKILLED,Area A,111100,2026-10-01,Chief Labour Commissioner (Central) Ministry of Labour & Employment,https://clc.gov.in/,true
+Central Sphere,UNSKILLED,Area B,70400,2026-10-01,Chief Labour Commissioner (Central) Ministry of Labour & Employment,https://clc.gov.in/,true
+Central Sphere,SEMI_SKILLED,Area B,79400,2026-10-01,Chief Labour Commissioner (Central) Ministry of Labour & Employment,https://clc.gov.in/,true
+Central Sphere,SKILLED,Area B,102400,2026-10-01,Chief Labour Commissioner (Central) Ministry of Labour & Employment,https://clc.gov.in/,true
+Central Sphere,HIGHLY_SKILLED,Area B,102400,2026-10-01,Chief Labour Commissioner (Central) Ministry of Labour & Employment,https://clc.gov.in/,true
+Central Sphere,UNSKILLED,Area C,56500,2026-10-01,Chief Labour Commissioner (Central) Ministry of Labour & Employment,https://clc.gov.in/,true
+Central Sphere,SEMI_SKILLED,Area C,66100,2026-10-01,Chief Labour Commissioner (Central) Ministry of Labour & Employment,https://clc.gov.in/,true
+Central Sphere,SKILLED,Area C,79400,2026-10-01,Chief Labour Commissioner (Central) Ministry of Labour & Employment,https://clc.gov.in/,true
+Central Sphere,HIGHLY_SKILLED,Area C,93300,2026-10-01,Chief Labour Commissioner (Central) Ministry of Labour & Employment,https://clc.gov.in/,true
